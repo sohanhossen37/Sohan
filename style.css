@@ -1,0 +1,162 @@
+*{
+    background-color: rgb(167, 162, 168);
+    padding: 0;
+    margin:0;
+    
+    
+}
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    margin-top: 20px;
+}
+.me{
+    padding: 20px;
+    height: 100px;
+    width: 500px;
+    margin: 20px;
+    font-size:15px;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+div{
+    margin-bottom:20px;
+    padding:10px;
+
+}
+li{
+    height:60%;
+    width:50%;
+    letter-spacing: 2px;
+    line-height: 2;
+    margin-left:70px;
+    
+}
+ul li a:hover{
+    background: #333;
+    color: azure;
+}
+h3{
+    margin-left: 30px;
+}
+h4{
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: oblique;
+   
+}
+
+h2{
+    background-color: gray;
+    color: aliceblue;
+    font-size :24px; ;
+    margin-left: 50%;
+    text-decoration: underline;
+    text-align: center;
+    display: inline;
+
+}
+
+nav{
+    background-color: #b3acac;
+    text-align: center;
+   margin-top: 10px;
+    
+}
+nav a{
+    background-color: rgba(6, 178, 32, 0.515);
+  
+    display:inline-block;
+    color: white;
+    margin-top: 10px;
+    padding: 20px 70px;
+    text-decoration:none;
+}
+nav a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+img{
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 200px;
+    transform: skew(-10deg);
+    border: 2px solid rgb(116, 108, 108);
+    transition: 3s;
+    background-size: auto;
+    box-shadow: 2px 2px 20px black;
+    
+}
+img:hover{
+    height: 200px;
+    width: 250px;
+    border-radius: 40%;
+    margin-left: 400px;
+    border: 2px solid rgba(98, 131, 169, 0.804);
+
+
+}
+
+form{
+    margin-left: 30%;
+}
+footer{
+    text-align: center;
+    margin-bottom: 30px;
+    border:1px solid rgb(239, 210, 210);
+    
+}
+button{
+    margin-bottom: 10px;
+    margin-left: 40%;
+    border: 5px solid red;
+    background-color: aquamarine;
+}
+p{
+    
+    padding:40px;
+    font-weight: bolder;
+
+}
+.gdriveVideo{
+    width:300px; 
+    height:250px; 
+    padding: 20px;
+    margin-left: 50px;
+  }
+  .video{
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px black;
+
+  }
+  .video:hover{
+    box-shadow: 10px 10px 20px rgb(30, 28, 28);
+
+  }
+
+  map{
+    background-color: #9f9999;
+  }
+  .map1{
+    padding: 20px;
+    border:2px solid rgb(155, 145, 145);
+    margin-left: 150px;
+    box-shadow: 5px 5px 10px black;
+  }
+  .map:hover{
+    box-shadow: 10px 10px 15px rgb(64, 63, 63);
+
+  }
+
+  .location1{
+    margin-top: 60px;
+    margin-left:20%;
+  }
+ 
